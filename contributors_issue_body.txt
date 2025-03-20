@@ -1,0 +1,3 @@
+This issue is used to manage contributors with @all-contributors.
+
+More information can be found in the [contributing guide](https://github.com/Ndpnt/test35/blob/main/CONTRIBUTING.md#list-a-new-contributor-in-the-open-terms-archive-website).
